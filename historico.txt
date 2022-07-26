@@ -1,0 +1,5 @@
+2022-07-25,arroz,feijao,beterraba,abobrinha,frango,450.0
+2022-07-25,arroz,feijao_preto,carne_moida,400.0
+2022-07-25,arroz,feijao,10.02022-07-25,arroz,feijao,180.0
+2022-07-25,farofa,linguica,300.0
+2022-07-25,arroz,feijao,farofa,frango,200.0

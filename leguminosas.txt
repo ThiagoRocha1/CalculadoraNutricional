@@ -1,0 +1,5 @@
+feijao_preto,0.91
+feijao_carioca,3.47
+lentilha,1.16
+soja,1.73
+grao_de_bico,3.64

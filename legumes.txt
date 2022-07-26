@@ -1,0 +1,5 @@
+chuchu,0.19
+couve_flor,0.25
+brocolis,0.35
+abobora,0.26
+abobrinha,0.17

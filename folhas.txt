@@ -1,0 +1,5 @@
+alface,0.2
+rucula,0.1
+repolho,0.25
+cogumelo,0.14
+cenoura,0.34
