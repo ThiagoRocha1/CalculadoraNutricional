@@ -1,5 +1,5 @@
 from random import choice;
-from datetime import date
+from datetime import date;
 from funcoes_aux import *;
 
 def montar_prato(dic_folhas,dic_leguminosas,dic_proteinas,dic_tuberculos,dic_legumes):
@@ -124,15 +124,15 @@ def olhar_info_alimento(lista_dicionarios):
                     print('')
 
                 #Grupo Tuberculo
-                elif lista_dicionarios.index(dicionario) == 0:
+                elif lista_dicionarios.index(dicionario) == 3:
                     print('')
                     print(f'O alimento: {alimento} pertence ao grupo dos tuberculos e possui {dicionario[alimento]} de Kcal/grama')
                     print('')
 
                 #Grupo Legume
-                elif lista_dicionarios.index(dicionario) == 0:
+                elif lista_dicionarios.index(dicionario) == 4:
                     print('')
-                    print(f'O alimento: {alimento} pertence ao grupo dos legumese possui {dicionario[alimento]} de Kcal/grama')
+                    print(f'O alimento: {alimento} pertence ao grupo dos legumes e possui {dicionario[alimento]} de Kcal/grama')
                     print('')
 
     #Codigo caso o alimento nao exista
@@ -156,6 +156,7 @@ def adicionar_alimento(lista_dicionarios):
     densidade_cal = verificar_entrada_numero_densidade(input('Digite a densidade calórica do alimento: '))
     #Densidade negativa
     if densidade_cal < 0:
+        verificar_entrada_numero_densidade(densidade_cal)
         return -1
 
     #Alimento ja cadastrado
@@ -320,7 +321,7 @@ def conversor_caloria(lista_dicionarios):
     #Tratamento de erro
     #Alimento Inicial
 
-    alimento_inicial  = verificar_entrada_str(input('Digite o nome do alimento: '))
+    alimento_inicial  = verificar_entrada_str(input('Digite o nome do alimento inicial: '))
 
     #Digitou o dado de maneira errada
 

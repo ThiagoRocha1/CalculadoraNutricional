@@ -4,3 +4,4 @@ picanha,2.89
 ovo,1.0
 file_mignon_suino,2.4
 mortadela,0.4
+frango,1.3

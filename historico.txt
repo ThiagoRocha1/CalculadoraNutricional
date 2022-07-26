@@ -3,3 +3,4 @@
 2022-07-25,arroz,feijao,10.02022-07-25,arroz,feijao,180.0
 2022-07-25,farofa,linguica,300.0
 2022-07-25,arroz,feijao,farofa,frango,200.0
+2022-07-26,arroz,feijao,carne,200.0

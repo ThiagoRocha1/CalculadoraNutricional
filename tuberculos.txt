@@ -3,3 +3,4 @@ batata_doce,0.86
 batata_inglesa,0.52
 inhame,1.18
 arroz_integral,1.11
+macarrao,2.9

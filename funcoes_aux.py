@@ -5,6 +5,7 @@ def criar_dicionario_alimento(str_alimento):
 
 
     #Tratamento de exceção.
+    #Considera-se que etamos botando um arquivo que existe
     #Caso tente colocar o nome de um arquivo de uma forma diferente de uma string
 
     if type(str_alimento) != str:
