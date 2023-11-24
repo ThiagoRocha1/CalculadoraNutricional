@@ -2,7 +2,7 @@
 # Calculadora de Equivalência Energética e Catálogo de Pratos
 Bem-vindo ao meu repositório no GitHub, onde compartilho um projeto que representa meu primeiro mergulho em um programa na programação. Este projeto é um reflexo do meu desejo de aprender, crescer e deixar um registro tangível do meu progresso no futuro.
 
-#Objetivo do Projeto
+# Objetivo do Projeto
 O trabalho surgiu da necessidade diária de resolver um problema comum: calcular a quantidade de batata doce necessária para atingir uma equivalência energética específica em relação ao arroz. Além disso, eu queria criar um programa que fosse mais do que apenas uma calculadora, mas também um catálogo de pratos e suas informações nutricionais.
 
 # Conceitos e Habilidades Adquiridas
