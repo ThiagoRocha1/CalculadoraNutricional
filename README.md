@@ -1,4 +1,3 @@
-
 # Calculadora de Equivalência Energética e Catálogo de Pratos
 
 # Objetivo do Projeto
@@ -23,7 +22,3 @@ Este programa oferece uma série de funcionalidades, incluindo:
 - Calcular a quantidade de batata doce necessária para atingir uma determinada equivalência energética em relação ao arroz.
 - Explorar um catálogo de pratos, cada um com suas informações nutricionais e calorias.
 - Encontrar pratos adequados para suas necessidades dietéticas específicas.
-
-Sinta-se à vontade para explorar e aprender com o código. Estou ansioso para continuar aprendendo e aprimorando minhas habilidades, e este repositório é uma parte fundamental dessa jornada.
-
-Agradeço por visitar meu repositório e espero que este projeto seja útil e inspirador para você, assim como tem sido para mim.
